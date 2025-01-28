@@ -1,0 +1,5 @@
+In Python you can create objects
+
+In Python you can sort through list and data
+
+In Python you can create create a games

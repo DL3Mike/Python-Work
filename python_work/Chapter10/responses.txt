@@ -1,0 +1,3 @@
+I like creating
+I like making apps
+I like learning Python.
